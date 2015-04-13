@@ -1,0 +1,17 @@
+AMC Networks~AMC~20:00~21:00~The Walking Dead~5
+Popular zombie series based on comic book
+
+Home Box Office, Inc.~HBO~20:00~21:00~Game of Throne~4
+Fantacy historic show about people killing each other for power
+
+British Broadcasting Corporation~BBC~20:00~21:00~Top Gear~4.8
+World's most famous car show
+
+Home Box Office, Inc.~HBO~21:00~22:00~Real Time with Bill Mahar~5
+Left wing political comedy talk show
+
+ESPN Inc.~ESPN~19:30~20:30~Monday Football~4
+Football, America's favorite sports
+
+NBCUniversal News Group~MSNBC~19:00~20:00~USA Today~3.7
+National news recap for the day
